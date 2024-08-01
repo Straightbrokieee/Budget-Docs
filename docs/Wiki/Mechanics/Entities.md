@@ -8,8 +8,6 @@ slug: /wiki/entities
 
 # About this section
 
-###### Last revision on 25.12.2023 (dd.mm.yyyy)
-
 </div>
 This page will cover the available Entities and their behavior. While there isn't an extensive amount of complexity to these mechanics, I'll provide a brief overview of what you can expect. Please note that the AI for The Howler is relatively simple - this isn't Hello Neighbor.
 

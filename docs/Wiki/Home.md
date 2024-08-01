@@ -8,8 +8,6 @@ slug: /wiki
 
 # 📔 Welcome to the Budget Backrooms Wiki!
 
-###### Last revision on 25.12.2023 (dd.mm.yyyy)
-
 </div>
 
 Here you can find _almost_ everything Budget Backrooms related.

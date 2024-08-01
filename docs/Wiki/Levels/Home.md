@@ -8,8 +8,6 @@ slug: /wiki/levels
 
 # About this section
 
-###### Last revision on 09.08.2023 (dd.mm.yyyy)
-
 </div>
 Self-explanatory. This *section* will help you through the Levels. Here you'll find each level's mechanic, possible exit, and entity occurrences.
 

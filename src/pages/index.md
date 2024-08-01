@@ -6,8 +6,6 @@
 
 ### The All-In-One documentation website for any stuff related to Budget Backrooms.
 
-###### _Last revision on 25.12.2023 (dd.mm.yyyy)_
-
 </div>
 
 # 🪧 Introduction

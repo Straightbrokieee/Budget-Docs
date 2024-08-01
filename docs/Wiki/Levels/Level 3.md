@@ -3,6 +3,7 @@ slug: /wiki/levels/3
 ---
 
 ## "Electrical Station"
+
 <div style="float:right; margin: 0px 0px 10px 10px">
  <img align="right" width="325" src="https://github.com/DavidJoacaRo/Budget-Docs/assets/32200281/7873f71a-73e1-4724-9c3a-130954c18069"/>
 </div>

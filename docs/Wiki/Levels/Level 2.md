@@ -3,6 +3,7 @@ slug: /wiki/levels/2
 ---
 
 ## "Pipe Dreams"
+
 <div style="float:right; margin: 0px 0px 10px 10px">
  <img align="right" width="325" src="https://github.com/DavidJoacaRo/Budget-Docs/assets/32200281/2ece080d-3a8c-4334-b2cf-51ab80e10d5d"/>
 </div>

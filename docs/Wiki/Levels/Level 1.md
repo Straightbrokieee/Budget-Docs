@@ -3,6 +3,7 @@ slug: /wiki/levels/1
 ---
 
 ## "Habitable Zone"
+
 <div style="float:right; margin: 0px 0px 10px 10px">
  <img align="right" width="325" src="https://github.com/DavidJoacaRo/Budget-Docs/assets/32200281/3c846cb8-a42a-4ee7-9a68-7a39af4e2d5a"/>
 </div>

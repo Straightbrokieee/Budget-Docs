@@ -1,41 +1,33 @@
-# Website
+![](static/img/home_header.png)
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+<div align="center">
+<sup>The All-In-One documentation website for any stuff related to Budget Backrooms.</sup>
+</div>
+
+## Contributing
 
 ### Installation
 
-```
-$ yarn
+To install the necessary dependencies, run the following command:
+
+```bash
+$ npm
 ```
 
 ### Local Development
 
-```
-$ yarn start
+To start a local development server that opens a browser window, use:
+
+```bash
+$ npm start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+This command launches the development environment, where most changes are automatically reflected live without requiring a server restart.
 
 ### Build
 
-```
-$ yarn build
+```bash
+$ npm run build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
